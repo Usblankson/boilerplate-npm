@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Uyohoini Blankson",
+	"description": "A package.json task for challenge-2 ",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
